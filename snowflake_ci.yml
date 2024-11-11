@@ -4,6 +4,7 @@ OWNER: "aks"
 PARAMS:
   - 'r2'
   - 'p2'
+  - 'p3'
 TAGS:
   - "AKSHAI"
 SCHEMAS:
